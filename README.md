@@ -30,9 +30,9 @@ To get started with the project, follow the steps below:
    ```sh
    java Game
 ## Project structure
-```sh
-Game.java           # The main class that controls the game flow and user interface.
-Board.java          # Class responsible for managing the game board and checking win conditions.
-Player.java         # Class that defines player properties and actions during the game.
+
+-Game.java           # The main class that controls the game flow and user interface.
+-Board.java          # Class responsible for managing the game board and checking win conditions.
+-Player.java         # Class that defines player properties and actions during the game.
 
 
