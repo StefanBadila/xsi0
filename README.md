@@ -14,8 +14,8 @@ This is a simple and classic Tic-Tac-Toe game created with Java. It offers an in
 You can check out the project and its functionality directly on the GitHub repository: [Xand0 GitHub Repository](https://github.com/StefanBadila/xsi0)
 Here are some screenshots of the game in action:
 
-![Game Screenshot 1](https://github.com/StefanBadila/xsi0/blob/main/screenshot2.png)
-![Game Screenshot 2](https://github.com/StefanBadila/xsi0/blob/main/screenshot1.png)
+![Game Screenshot 1](https://github.com/StefanBadila/xsi0/blob/main/screenshots/2.png)
+![Game Screenshot 2](https://github.com/StefanBadila/xsi0/blob/main/screenshots/1.png)
 
 ## Installation
 
